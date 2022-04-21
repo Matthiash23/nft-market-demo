@@ -1,0 +1,2 @@
+export const MARKETPLACE_ADDRESS = "0xe9061f92ba9a3d9ef3f4eb8456ac9e552b3ff5c8"
+export const NFT_CONTRACT_ADDRESS = "0xa7c8b0d74b68ef10511f27e97c379fb1651e1ed2"
